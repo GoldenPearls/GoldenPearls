@@ -25,12 +25,15 @@
 
 </div>
 
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://velog.io/@prettylee620/5%EC%9B%94-31%EC%9D%BC-%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-2%EC%9D%BC%EC%B0%A8)
 
-
 📈 my github stats </br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenPearls&show_icons=true&theme=cobalt) 
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GoldenPearls&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" 
+       />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenPearls" alt="Top Langs" />
+</div>
 
 <!--
 **kkum-yem/kkum-yem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
