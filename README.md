@@ -1,7 +1,9 @@
 ### Hi 👋 
 ### 👻 My name is Lee Geum ju </br>
-🐾 I study string boot </br>
-🐾 </br>
+🐾 지금은 spring 배우고 있어요 </br>
+🐾 내가 아는 정보를 나누면서 뿌듯함을 느끼고 그 과정에서 지식을 정착합니다.</br>
+🐾 정보를 나눔받는 것도 좋아합니다. 내가 모르는 지식을 나눔받으면서 하나씩 배워가는 것을 지향합니다.</br>
+🐾 문서화, 기록하는 것을 지향합니다. </br>
 🌱
 <div style="display: flex; flex-direction: row;">
    <!--Notion-->
