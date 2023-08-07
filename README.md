@@ -16,13 +16,20 @@
    
    <!--Velog-->     
 <a href="https://velog.io/@prettylee620">
-   <img src="https://img.shields.io/badge/ Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a>
+   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a>
+
+<!-- twitter -->
+<a href="https://twitter.com/mellona01">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" /></a>
    
 </div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://velog.io/@prettylee620/5%EC%9B%94-31%EC%9D%BC-%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-2%EC%9D%BC%EC%B0%A8)   
    
 <div style="display: flex; flex-direction: row;">
+
+### 📋 Languages
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
    
    ### 🔑 stack
 <!--Github-->
@@ -30,15 +37,30 @@
 
 <!--Git -->
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-   
-<!--Java-->
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
+   ### 📚 Frameworks, Platforms and Libraries
+   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+
+   ### 📥 DB
+<!--MariaDB-->
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+
+ ### 🔨 IDE
+<!-- 이클립스 -->
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 
 </div>
    
 </br>
 
-📈 my github stats 
+### 🗄️ Servers
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+
+### 📈 my github stats 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=GoldenPearls&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" 
        />
