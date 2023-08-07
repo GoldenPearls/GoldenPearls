@@ -5,6 +5,7 @@
 🐾 정보를 나눔받는 것도 좋아합니다. 내가 모르는 지식을 나눔받으면서 하나씩 배워가는 것을 지향합니다.</br>
 🐾 문서화, 기록하는 것을 지향합니다. </br>
 
+               ☁️ SNS List ☁️
 <div style="display: flex; flex-direction: row;">
    <!--Notion-->
 <a href="https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4">
