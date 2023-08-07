@@ -24,7 +24,7 @@
    
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://github.com/@prettylee620/velog-readme-stats)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://velog-readme-stats.vercel.app/api?name=prettylee620)   
    
 <div style="display: flex; flex-direction: row;">
 
