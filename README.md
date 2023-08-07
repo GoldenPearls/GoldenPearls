@@ -24,7 +24,7 @@
    
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://velog.io/@prettylee620/5%EC%9B%94-31%EC%9D%BC-%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-2%EC%9D%BC%EC%B0%A8)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://github.com/prettylee620/velog-readme-stats)   
    
 <div style="display: flex; flex-direction: row;">
 
@@ -56,7 +56,6 @@
 </div>
    
 </br>
-
 ### 🗄️ Servers
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 
