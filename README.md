@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Geumju's%_performance&fontSize=60" />
 
-## 안녕하세요 👋 
-### 👻 이금주라고 합니다.
-###  저에 대해 말하자면, </br>
+## 안녕하세요 👋 이금주라고 합니다.
+###  👻 저에 대해 말하자면, </br>
 🌱 지금은 spring 배우고 있어요 </br>
 🐾 내가 아는 정보를 나누면서 뿌듯함을 느끼고 그 과정에서 지식을 정착합니다.</br>
 🐾 정보를 나눔받는 것도 좋아합니다. 내가 모르는 지식을 나눔받으면서 하나씩 배워가는 것을 지향합니다.</br>
