@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Geumju's%_performance&fontSize=60" />
+
 ### Hi 👋 
 ### 👻 My name is Lee Geum ju </br>
 🌱 지금은 spring 배우고 있어요 </br>
