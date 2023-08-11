@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Geumju's%_performance&fontSize=60" />
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=GoldenPearls'%20Journal🎈&fontSize=40)
 ## 안녕하세요 👋 이금주라고 합니다.
-###  👻 저에 대해 말하자면, </br>
+
+ ###  👻 저에 대해 말하자면, </br>
 🌱 현재는 스프링을 학습 중입니다. </br> 
 🐾 제 지식을 공유하며 성취감을 느끼며, 그 과정에서 새로운 지식을 습득합니다. </br>
 🐾 지식을 공유받는 것도 즐거워합니다. 미지의 정보를 배우면서 조금씩 쌓아가는 것을 지향합니다. </br>
 🐾 최신 기술에도 관심을 가지고 있습니다. 다만, 최신 기술을 적용할 때는 그 기술의 장점과 제가 필요한지를 판단하여 사용합니다. </br>
 🐾 문서 작성과 기록을 중요시합니다.</br>
- 
-☁️ SNS List ☁️
-<div style="display: flex; flex-direction: row;">
+
+<h3> ☁️ SNS List ☁️</h3>
+<div style="display: flex; flex-direction: row; ">
    <!--Notion-->
 <a href="https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4">
    <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white&https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4" />
@@ -27,9 +27,9 @@
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" /></a>
    
 </div>
-
+ 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://velog.io/@prettylee620)   
-   
+
 <div style="display: flex; flex-direction: row;">
 
 ### 📋 Languages
