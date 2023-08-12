@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=GoldenPearls'%20Journal🎈&fontSize=40)
 ## 안녕하세요 👋 이금주라고 합니다.
 
- ###  👻 저에 대해 말하자면, </br>
+ ###  🐇 저에 대해 말하자면, </br>
 🌱 현재는 스프링을 학습 중입니다. </br> 
+📑 DFS 공부방식을 선호합니다. DFS 학습 방식을 선호하는 이유는 항상 "왜"에 대한 답을 탐구하고자 하는 태도를 가지고 있기 때문입니다.</br>
 🐾 제 지식을 공유하며 성취감을 느끼며, 그 과정에서 새로운 지식을 습득합니다. </br>
 🐾 지식을 공유받는 것도 즐거워합니다. 미지의 정보를 배우면서 조금씩 쌓아가는 것을 지향합니다. </br>
 🐾 최신 기술에도 관심을 가지고 있습니다. 다만, 최신 기술을 적용할 때는 그 기술의 장점과 제가 필요한지를 판단하여 사용합니다. </br>
 🐾 문서 작성과 기록을 중요시합니다.</br>
+
 
 <h3> ☁️ SNS List ☁️</h3>
 <div style="display: flex; flex-direction: row; ">
@@ -30,40 +32,15 @@
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://velog.io/@prettylee620)   
 
-<div style="display: flex; flex-direction: row;">
-
-### 📋 Languages
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   
-   ### 🔑 stack
-<!--Github-->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<!--Git -->
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-   ### 📚 Frameworks, Platforms and Libraries
-   <a href="https://github.com/GoldenPearls/SpringEx/tree/master">
-   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-
-   ### 📥 DB
-<!--MariaDB-->
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-
- ### 🔨 IDE
-<!-- 이클립스 -->
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<a href="https://github.com/GoldenPearls/androidprogramming">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-
-</div>
-   
-</br>
-
-### 🗄️ Servers
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+## Tech Stacks
+| 분류     | 기술  |                                                                
+| :------- | :---: | 
+| 📋 Langauage  | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> |
+| 🧑‍🤝‍🧑 Collaboration tool | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=git&logoColor=white"> |
+| 🔨 IDE | <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <a href="https://github.com/GoldenPearls/androidprogramming"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>|
+|📚 Frameworks, Platforms and Libraries |  <a href="https://github.com/GoldenPearls/SpringEx/tree/master"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a> |
+| 📥 DB | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=mariadb&logoColor=white"> | 
+|🗄️ Servers | <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> |
 
 ### 📈 my github stats 
 <div style="display: flex;">
@@ -71,6 +48,8 @@
        />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenPearls" alt="Top Langs" />
 </div>
+
+
 
 <!--
 **kkum-yem/kkum-yem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
