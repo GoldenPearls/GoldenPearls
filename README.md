@@ -39,7 +39,7 @@
 | 📋 Langauage  | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">  |
 | 🧑‍🤝‍🧑 Collaboration tool | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=git&logoColor=white"> |
 | 🔨 IDE | <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <a href="https://github.com/GoldenPearls/androidprogramming"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>|
-|📚 Frameworks, Platforms and Libraries |  <a href="https://github.com/GoldenPearls/SpringEx/tree/master"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a> |
+|📚 Frameworks, Platforms and Libraries |  <a href="https://github.com/GoldenPearls/SpringEx/tree/master"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=springBoot&logoColor=white"></a> |
 | 📥 DB | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=mariadb&logoColor=white"> | 
 |🗄️ Servers | <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> |
 
