@@ -2,7 +2,7 @@
 ## 안녕하세요 👋 이금주라고 합니다.
 
  ###  🐇 저에 대해 말하자면, </br>
-🌱 현재는 스프링을 학습 중입니다. </br> 
+🌱 현재는 스프링을 학습 중입니다. SM으로 일산에서 근무중입니다.</br> 
 👩‍💻 저의 가장 큰 강점은 **지속적인 노력과 꾸준한 업무 수행**입니다. 저는 꾸준함을 유지하며 작업을 수행하는 것에 자부심을 가지고 있으며, 그 결과물을 확인하고 성취감을 느끼는 것을 즐기는 성향을 갖고 있습니다.  </br> 
 📑 DFS 공부방식을 선호합니다. DFS 학습 방식을 선호하는 이유는 항상 "왜"에 대한 답을 탐구하고자 하는 태도를 가지고 있기 때문입니다.</br>
 🐾 제 지식을 공유하며 성취감을 느끼며, 그 과정에서 새로운 지식을 습득합니다. </br>
@@ -14,8 +14,8 @@
 <h3> ☁️ SNS List ☁️</h3>
 <div style="display: flex; flex-direction: row; ">
    <!--Notion-->
-<a href="https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4">
-   <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white&https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4" />
+ <!--<a href="https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4">
+   <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white&https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4" />-->
  
   <!--Git Hub-->     
 <a href="https://github.com/GoldenPearls">
@@ -26,8 +26,8 @@
    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a>
 
 <!-- twitter -->
-<a href="https://twitter.com/mellona01">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" /></a>
+<!--<a href="https://twitter.com/mellona01">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" /></a>-->
    
 </div>
  
