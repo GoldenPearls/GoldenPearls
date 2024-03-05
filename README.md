@@ -31,7 +31,7 @@
    
 </div>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&color=dark)](https://velog.io/@prettylee620)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620)](https://velog.io/@prettylee620)
 
 ## Tech Stacks
 | 분류     | 기술  |                                                                
