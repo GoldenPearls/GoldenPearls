@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=GoldenPearls'%20Journal🎈&fontSize=40)
 ## 안녕하세요 👋 이금주라고 합니다.
 
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+
  ###  🐇 저에 대해 말하자면, </br>
 🌱 현재는 스프링을 학습 중입니다. SM으로 일산에서 근무중입니다.</br> 
 교육쪽에 종사 중이며, 주로 이벤트 페이지 개발을 맡고 있습니다.</br>
@@ -11,6 +13,10 @@
 🐾 최신 기술에도 관심을 가지고 있습니다. 다만, 최신 기술을 적용할 때는 그 기술의 장점과 제가 필요한지를 판단하여 사용합니다. </br>
 🐾 문서 작성과 기록을 중요시합니다.</br>
 
+
+
+
+<div align="center"> 
 
 <h3> ☁️ SNS List ☁️</h3>
 <div style="display: flex; flex-direction: row; ">
@@ -35,8 +41,10 @@
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620)](https://velog.io/@prettylee620)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=prettylee620)](https://solved.ac/prettylee620)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=prettylee620)](https://solved.ac/prettylee620) &nbsp;&nbsp;
 <img src="http://mazandi.herokuapp.com/api?handle=prettylee620&theme=warm"/>
+
+</div>
 
 ## Tech Stacks
 | 분류     | 기술  |                                                                
