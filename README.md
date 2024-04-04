@@ -31,6 +31,7 @@
    <!--Velog-->     
 <a href="https://velog.io/@prettylee620">
    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a>
+   
 
 <!-- twitter -->
 <!--<a href="https://twitter.com/mellona01">
@@ -38,8 +39,7 @@
    
 </div>
 
- 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620)](https://velog.io/@prettylee620)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=prettylee620&slug=신입개발자의-중소-si-취뽀-2탄-면접-후기-질문-취업-관련-사이트-모음)](https://github.com/GoldenPearls/velog-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=prettylee620)](https://solved.ac/prettylee620) &nbsp;&nbsp;
 <img src="http://mazandi.herokuapp.com/api?handle=prettylee620&theme=warm"/>
