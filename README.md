@@ -1,5 +1,6 @@
 <h1 align="center">  안녕하세요! 👋, 이금주 입니다.</h1>
 <h3 align="center">혼자 나아가는 것이 아닌 같이 나아가기 위해 기록하고 공유하는 백엔드 개발자입니다.</h3>
+<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <h3 align="center">  🐇 저에 대해 말하자면, </h3>
 
 - 🔭 지금 현재 일하는 곳은 **ShareMind 회사 소속 EBS 초중학팀** 입니다.
@@ -23,10 +24,10 @@
 
 - ✉️ 저에게 연락은 [Gmail](prettylee620@gmail.com)로 주세요!
 
-- 📫 그 외 연락할 가능한 수단은 <a href="https://linkedin.com/in/mellona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellona" height="15" width="40" /></a> 입니다.
+- 📫 그 외 연락 가능한 수단은 <a href="https://linkedin.com/in/mellona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellona" height="15" width="40" /></a> 입니다.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🍀 감사합니다!
+
 
 
 <div style="display: flex;">
