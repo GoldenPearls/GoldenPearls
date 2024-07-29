@@ -1,3 +1,25 @@
+<h1 align="center">Hi 👋, I'm 이금주</h1>
+<h3 align="center">혼자 나아가는 것이 아닌 같이 나아가기 위해 기록하고 공유하는 백엔드 개발자입니다.</h3>
+
+- 🔭 I’m currently working on [sharemind EBS 초중학팀](https://sharemind.kr/)
+
+- 🌱 I’m currently learning **OOP, JPA**
+
+- 📝 I regularly write articles on [velog](https://velog.io/@prettylee620/posts)
+
+- 💬 Ask me about **spring, mariadb, java, javascript,mybatis**
+
+- 📫 How to reach me **prettylee620@gmail.com**
+
+- 📄 Know about my experiences [https://www.rallit.com/resumes/6107@prettylee620/%EC%9D%B4%EA%B8%88%EC%A3%BC(%EC%88%98%EC%A0%95%20%EC%A4%91)](https://www.rallit.com/resumes/6107@prettylee620/%EC%9D%B4%EA%B8%88%EC%A3%BC(%EC%88%98%EC%A0%95%20%EC%A4%91))
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldenpearls&show_icons=true&locale=en&layout=compact" alt="goldenpearls" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldenpearls&show_icons=true&locale=en" alt="goldenpearls" /></p>
+
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=GoldenPearls'%20Journal🎈&fontSize=40)
 ## 안녕하세요 👋 이금주라고 합니다.
  ###  🐇 저에 대해 말하자면, </br>
@@ -43,6 +65,14 @@
 
 ## Tech Stacks
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <a href="https://github.com/GoldenPearls/SpringEx/tree/master"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mellona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellona" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 ### 📈 my github stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GoldenPearls&theme=flat&column=7)](https://github.com/GoldenPearls/)
