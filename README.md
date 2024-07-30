@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <h3 align="center">  🐇 저에 대해 말하자면, </h3>
 
-- 🔭 지금 현재 일하는 곳은 **ShareMind 회사 소속 EBS 초중학팀** 입니다.
+- 🔭 지금 현재 근무하는 곳은 **SI 회사 소속 SM LMS 팀** 입니다.
 
 - 🌱 지금 현재 관심이 있고 공부하는 분야는 **OOP, JPA** 에요.
 
