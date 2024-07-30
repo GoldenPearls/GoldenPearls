@@ -11,7 +11,7 @@
 
 - 📑 **DFS 공부방식**을 선호합니다. DFS 학습 방식을 선호하는 이유는 항상 "왜"에 대한 답을 탐구하고자 하는 태도를 가지고 있기 때문입니다.
 
-- 📝 저는 기록하고 남들과 정보를 나누는 것을 좋아하기에 <a href="https://velog.io/@prettylee620"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a> 와 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">에 기록합니다.
+- 📝 저는 기록하고 남들과 정보를 나누는 것을 좋아하기에 <a href="https://velog.io/@prettylee620"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a> 와  <a href="https://mellona.oopy.io/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>에 기록합니다.
 
 - 📌 최근에 기록하여 많은 공감을 얻었던 글은 **면접에 관련된 글**이며, 그 외의 다수의 글로 공감과 댓글을 받았으며, 2024년 **velog 팔로워 97명**을 달성하였습니다.
 
