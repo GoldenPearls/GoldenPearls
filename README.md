@@ -30,10 +30,10 @@
 
 
 
-<div style="display: flex;">
+<!--<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=GoldenPearls&show_icons=true&theme=radical" alt="Anurag's GitHub stats" 
        />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenPearls&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenPearls&layout=compact&theme=dark" alt="Top Langs" />--!>
 
 
 
