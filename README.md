@@ -1,5 +1,5 @@
 <h1 align="center">  안녕하세요! 👋, 이금주 입니다.</h1>
-<h3 align="center">혼자 나아가는 것이 아닌 같이 나아가기 위해 기록하고 공유하는 백엔드 개발자입니다. </h3>
+<h3 align="center">혼자 나아가는 것이 아닌 같이 나아가기 위해 소통하고 기록하여 공유하는 1년차 백엔드 개발자입니다. </h3>
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <h3 align="center">  🐇 저에 대해 말하자면, </h3>
@@ -7,7 +7,7 @@
 
 - 🔭 지금 현재 근무하는 곳은 **SI 회사 소속 SM LMS 팀** 입니다.
 
-- 🌱 지금 현재 관심이 있고 공부하는 분야는 **OOP, JPA** 에요.
+- 🌱 지금 현재 관심이 있고 공부하는 분야는 **OOP, JPA, DDD** 에요.
 
 - 💬 제가 현재 주력으로 사용하고 있는 기술은 **spring, mariadb, java, javascript, mybatis** 입니다.
 
