@@ -21,7 +21,7 @@
 
 <div align="center"> 
  
-[![https://velog.io/@prettylee620/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A4%91%EC%86%8C-si-%EC%B7%A8%EB%BD%80-2%ED%83%84-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0-%EC%A7%88%EB%AC%B8-%EC%B7%A8%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C](https://velog-readme-stats.vercel.app/api?name=prettylee620&slug=신입개발자의-중소-si-취뽀-2탄-면접-후기-질문-취업-관련-사이트-모음)](https://github.com/GoldenPearls/velog-readme-stats) 
+[![https://velog.io/@prettylee620/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A4%91%EC%86%8C-si-%EC%B7%A8%EB%BD%80-2%ED%83%84-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0-%EC%A7%88%EB%AC%B8-%EC%B7%A8%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C](https://velog-readme-stats.vercel.app/api?name=prettylee620&slug=신입개발자의-중소-si-취뽀-2탄-면접-후기-질문-취업-관련-사이트-모음)](https://velog.io/@prettylee620/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A4%91%EC%86%8C-si-%EC%B7%A8%EB%BD%80-2%ED%83%84-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0-%EC%A7%88%EB%AC%B8-%EC%B7%A8%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C) 
 </div>
 
 - 📄 저의 포트폴리오 및 이력서는 [랠릿](https://www.rallit.com/resumes/6107@prettylee620/%EC%9D%B4%EA%B8%88%EC%A3%BC(%EC%88%98%EC%A0%95%20%EC%A4%91))에서 확인하실 수 있습니다 :)
