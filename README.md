@@ -17,6 +17,8 @@
 
 - 📝 저는 기록하고 남들과 정보를 나누는 것을 좋아하기에 <a href="https://velog.io/@prettylee620"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a> 와  <a href="https://mellona.oopy.io/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>에 기록합니다.
 
+- ✏️ [티스토리](https://geumjulee.tistory.com/)에도 기록하고 있습니다.
+
 - 📌 최근에 기록하여 많은 공감을 얻었던 글은 **면접에 관련된 글**이며, 그 외의 다수의 글로 공감과 댓글을 받았으며, 2024년 **velog 팔로워 100명 이상**을 달성하였습니다.
 
 <div align="center"> 
