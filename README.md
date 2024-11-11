@@ -40,10 +40,13 @@
        />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenPearls&layout=compact&theme=dark" alt="Top Langs" />--!>
 
-
-
-
-
-
-
+ <div align="center"> 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/GoldenPearls"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
 
