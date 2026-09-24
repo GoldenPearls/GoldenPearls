@@ -56,19 +56,38 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="3" valign="top">
+<p align="center"><img src="https://img.shields.io/badge/🏆_2026_관광데이터_활용_공모전-출품작-E0875F?style=for-the-badge"/></p>
+<a href="https://github.com/Young-Seok-Kim/pic-view"><img src="images/projects/picview.png" alt="정읍 시선 (PicView)"/></a>
+<h3 align="center">📸 정읍 시선 (PicView)</h3>
+<p align="center"><i>"지금 정읍에서, 어디를 어떻게 담을까"</i></p>
+<p align="center">
+한국천문연구원 일출·일몰 + 기상청 실황·예보 + 촬영지의 방위를 하나로 계산해<br/>
+<b>지금이 촬영 적기인지, 어디서 어떤 포즈로 찍을지</b>까지 알려 주는 지역 특화 출사 안내 앱이에요.<br/>
+관광 앱이 "어디를 갈까"에서 멈출 때, <b>"언제 가야 사진이 잘 나오는지"</b>를 답합니다.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/담당-기획_·_디자인_·_일부_개발-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Native-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/한국관광공사_TourAPI-0055A5?style=flat-square"/>
+<img src="https://img.shields.io/badge/기상청_·_천문연_API-2E2350?style=flat-square"/>
+</p>
+<p align="center"><a href="https://github.com/Young-Seok-Kim/pic-view">📦 github.com/Young-Seok-Kim/pic-view</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://toonmate.vercel.app"><img src="images/projects/toonmate.png" alt="툰메이트"/></a>
 <h3>🎨 툰메이트</h3>
-사연을 넣으면 AI가 각색하고, 캐릭터를 유지한 채 컷을 그려 <b>인스타툰으로 완성</b>해 주는 웹 서비스.<br/>
-사연 기획 → 캐릭터 시트 → 장면 제작 → 말풍선 편집 → ZIP 내보내기까지 한 흐름으로 이어져요.<br/><br/>
+사연을 넣으면 AI가 각색하고, 캐릭터를 유지한 채 컷을 그려 <b>인스타툰으로 완성</b>해 주는 웹 서비스.<br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/gpt--image--1-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <br/><a href="https://toonmate.vercel.app">🔗 toonmate.vercel.app</a>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://goldendusk-blog.vercel.app"><img src="images/projects/goldendusk-blog.png" alt="황혼의 서재"/></a>
 <h3>🌇 황혼의 서재</h3>
 개발 · 회고 · 일상을 기록하는 <b>나만의 블로그</b>. 차곡차곡 쌓아 가는 기록의 집이에요.<br/><br/>
@@ -76,23 +95,14 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <br/><a href="https://goldendusk-blog.vercel.app">🔗 goldendusk-blog.vercel.app</a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://naver-blog-draft-app.vercel.app"><img src="images/projects/naver-blog-draft-app.png" alt="블로그 초안 자동 작성"/></a>
-<h3>📝 블로그 초안 자동 작성</h3>
-<b>네이버 블로그 초안</b>을 AI로 써 주는 웹앱. Claude · GPT · Gemini 중 골라 쓰고, API 키는 서버가 아닌 각자의 브라우저에만 저장해요.<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Multi_LLM-8B5CF6?style=flat-square&logoColor=white"/>
-<br/><a href="https://naver-blog-draft-app.vercel.app">🔗 naver-blog-draft-app.vercel.app</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://thumbnail-maker-lime.vercel.app"><img src="images/projects/thumbnail--maker.png" alt="썸네일 메이커"/></a>
-<h3>🍜 썸네일 메이커</h3>
-블로그 일상 글에 어울리는 <b>감성 썸네일</b>을 몇 번의 클릭으로 만드는 도구.<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<br/><a href="https://github.com/GoldenPearls/thumbnail--maker">📦 repo</a> · <a href="https://thumbnail-maker-lime.vercel.app">🔗 demo</a>
+<td width="33%" valign="top">
+<img src="images/projects/myosaeng.png" alt="묘생로그"/>
+<h3>🐈 묘생로그</h3>
+"우리 고양이를 가장 잘 아는 AI 집사". 간식 반응을 10초 만에 기록하면 <b>기록이 쌓일수록 정확해지는 취향 리포트와 추천</b>을 받아요.<br/><br/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<br/><sub>🔒 비공개 저장소</sub>
 </td>
 </tr>
 </table>
@@ -103,15 +113,15 @@
 
 | 프로젝트 | 한 줄 소개 | 스택 |
 |---|---|---|
+| 📝 [블로그 초안 자동 작성](https://naver-blog-draft-app.vercel.app) | Claude · GPT · Gemini 중 골라 쓰는 네이버 블로그 초안 생성기 | JavaScript |
+| 🍜 [썸네일 메이커](https://thumbnail-maker-lime.vercel.app) | 블로그 일상 글에 어울리는 감성 썸네일 제작기 | JavaScript · Vercel |
 | 🔖 [북마크 허브](https://bookmark-hub-theta.vercel.app) | 쓰레드 · X · 인스타 북마크 2,262개를 모아 자동 분류하는 대시보드 | Python · Vercel |
 | ✈️ 콘텐츠 오토파일럿 | 트렌드 수집 → Slack 승인 → 블로그 글 · 인스타툰 자동 생성 | FastAPI · Docker · Slack |
 | 🛒 [쿠팡 콘텐츠 자동화](https://coupang-content-automation.vercel.app) | 제휴 링크 + AI 문구 + 이미지 · 영상 콘텐츠 자동 생성 | JavaScript |
 | 📈 [Rank Pulse](https://github.com/GoldenPearls/rank-pulse) | 키워드 검색량 · 경쟁도 · 블로그 노출 순위 추적 도구 | TypeScript · Vercel |
 | 🤝 네이버 이웃 관리 봇 | 로컬 AI 댓글 초안 · 공감 · 서로이웃 신청 반자동화 | Python |
-| 🐈 묘생로그 | 외동묘 보호자를 위한 기호성 기록 · 분석 · 추천 서비스 | TypeScript |
 | 🐾 [Meow Diary](https://github.com/GoldenPearls/meow-diary) | 고양이 건강 · 식단 · 접종 · 병원 기록 사이트 | HTML · JS |
 | 🛡 [mini-waf](https://github.com/GoldenPearls/mini-waf) | SQLi · XSS · Path Traversal을 탐지 · 차단하는 미니 웹 방화벽 | PHP CI4 · PostgreSQL |
-| 📸 [Pic View](https://github.com/GoldenPearls/pic-view) | 한국관광공사 공모전 출품작: 기상 · 천문 데이터 기반 출사 가이드 | Kotlin |
 | 🎪 [Festibook](https://github.com/GoldenPearls/festibook) | 멀티캠퍼스 KDT 팀 프로젝트 | JavaScript |
 
 링크가 없는 프로젝트는 비공개 저장소예요.
