@@ -1,6 +1,6 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D365,50:FDA085,100:8B5CF6&height=220&section=header&text=GoldenDusk&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0%20%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94%203%EB%85%84%EC%B0%A8%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%C2%B7%20%EC%9D%B4%EA%B8%88%EC%A3%BC&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/></p>
+<p align="center"><img src="images/header.svg" width="100%" alt="GoldenDusk"/></p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Spring%20%C2%B7%20MyBatis%EB%A1%9C%20LMS%EB%A5%BC%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90;Claude%20API%EB%A1%9C%20%EB%B0%98%EB%B3%B5%20%EC%9E%91%EC%97%85%EC%9D%84%20%EC%97%86%EC%95%A0%EB%8A%94%20%EC%A4%91%20%F0%9F%A4%96;%EB%A7%A4%EC%9D%BC%20%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0%2C%20%ED%95%A8%EA%BB%98%20%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0%2C%20%EB%82%98%EB%88%95%EB%8B%88%EB%8B%A4%20%E2%9C%8D%EF%B8%8F" alt="typing"/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&duration=3500&pause=800&color=9B5C8F&center=true&vCenter=true&width=560&lines=Spring%20%C2%B7%20MyBatis%EB%A1%9C%20LMS%EB%A5%BC%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90;Claude%20API%EB%A1%9C%20%EB%B0%98%EB%B3%B5%20%EC%9E%91%EC%97%85%EC%9D%84%20%EC%97%86%EC%95%A0%EB%8A%94%20%EC%A4%91%20%F0%9F%A4%96;%EB%A7%A4%EC%9D%BC%20%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0%2C%20%ED%95%A8%EA%BB%98%20%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0%2C%20%EB%82%98%EB%88%95%EB%8B%88%EB%8B%A4%20%E2%9C%8D%EF%B8%8F" alt="typing"/></p>
 
 <p align="center">
   <a href="https://velog.io/@prettylee620"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
@@ -175,6 +175,4 @@
 - ✉️ 메일: [prettylee620@gmail.com](mailto:prettylee620@gmail.com)
 - ✏️ 예전 기록: [티스토리](https://geumjulee.tistory.com/)
 
-<p align="center"><b>🍀 읽어 주셔서 감사합니다!</b></p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:FDA085,100:F6D365&height=120&section=footer" width="100%"/></p>
+<p align="center"><img src="images/footer.svg" width="100%" alt="읽어 주셔서 감사합니다"/></p>
