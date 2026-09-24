@@ -23,7 +23,7 @@
 - 📑 **DFS 공부방식**을 좋아해요. "왜?"에 대한 답이 나올 때까지 끝까지 파고듭니다.
 - ✍️ velog에 **230편 넘는 글**을 썼고, 면접 후기 글로 많은 공감을 받았어요.
 - ☕ 부족한 도메인 지식은 **커피챗**으로 채워 가는 중입니다. 언제든 연락 주세요!
-- 🐈 고양이를 좋아해서 고양이 기록 서비스도 두 번이나 만들었어요.
+- 🐈 고양이를 좋아해서 고양이 취향 기록 서비스 **묘생로그**도 만들고 있어요.
 
 <br clear="right"/>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,php&theme=light"/><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python&theme=light"/><br/>
   <img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -120,8 +120,6 @@
 | 🛒 [쿠팡 콘텐츠 자동화](https://coupang-content-automation.vercel.app) | 제휴 링크 + AI 문구 + 이미지 · 영상 콘텐츠 자동 생성 | JavaScript |
 | 📈 [Rank Pulse](https://github.com/GoldenPearls/rank-pulse) | 키워드 검색량 · 경쟁도 · 블로그 노출 순위 추적 도구 | TypeScript · Vercel |
 | 🤝 네이버 이웃 관리 봇 | 로컬 AI 댓글 초안 · 공감 · 서로이웃 신청 반자동화 | Python |
-| 🐾 [Meow Diary](https://github.com/GoldenPearls/meow-diary) | 고양이 건강 · 식단 · 접종 · 병원 기록 사이트 | HTML · JS |
-| 🛡 [mini-waf](https://github.com/GoldenPearls/mini-waf) | SQLi · XSS · Path Traversal을 탐지 · 차단하는 미니 웹 방화벽 | PHP CI4 · PostgreSQL |
 | 🎪 [Festibook](https://github.com/GoldenPearls/festibook) | 멀티캠퍼스 KDT 팀 프로젝트 | JavaScript |
 
 링크가 없는 프로젝트는 비공개 저장소예요.
