@@ -8,7 +8,7 @@
   <a href="https://mellona-log.gitbook.io/log"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mellona"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:prettylee620@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=GoldenPearls&label=Visitors&color=8B5CF6&style=for-the-badge"/>
+  <img src="https://hits.sh/github.com/GoldenPearls.svg?style=for-the-badge&label=Visitors&color=8B5CF6"/>
 </p>
 
 ## 🐇 About Me
