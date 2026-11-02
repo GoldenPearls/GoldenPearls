@@ -58,7 +58,7 @@
 <tr>
 <td colspan="3" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/🏆_2026_관광데이터_활용_공모전-웹·앱_개발부문_장려상-E0875F?style=for-the-badge"/></p>
-<p align="center"><sub>한국관광공사 사장상 · 2026.11 선정</sub></p>
+<p align="center"><img src="https://img.shields.io/badge/🏅_수여-한국관광공사_사장상-F5B041?style=for-the-badge&labelColor=555555"/> <img src="https://img.shields.io/badge/💰_상금-50만원-8B5CF6?style=for-the-badge&labelColor=555555"/> <img src="https://img.shields.io/badge/📅_선정-2026.11-3DDC84?style=for-the-badge&labelColor=555555"/></p>
 <a href="https://github.com/Young-Seok-Kim/pic-view"><img src="images/projects/picview.png" alt="정읍 시선 (PicView)"/></a>
 <h3 align="center">📸 정읍 시선 (PicView)</h3>
 <p align="center"><i>"지금 정읍에서, 어디를 어떻게 담을까"</i></p>
